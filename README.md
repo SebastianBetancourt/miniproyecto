@@ -11,6 +11,8 @@ necesitar comparar el tercero con el primero para concluir cual es el
 orden de los tres animales. Como se realizan a lo mucho 3 comparaciones,
 ordenar los animales en una escena requiere $3\in O(1)$ pasos.
 
+![Table of complexities per task](graphs/disse.png?raw=true "Complexity per tast")
+
 # Experimento
 Estas pruebas fueron ejecutadas en Python 3.7.7 (default, Mar 10 2020,
 15:43:33) \[Clang 11.0.0 (clang-1100.0.33.17)\] en Windows 10 con un
@@ -40,6 +42,10 @@ y se demoró 2783891 ms (más de 45 min).
 
 A continuación se muestran las gráficas comparando el rendimiento de los
 algoritmos variando $n$, $m$ y $k$.
+
+![Execution time](graphs/graph1.png?raw=true "execution time")
+
+![Execution time](graphs/graph2.png?raw=true "execution time")
 
 ## Conclusiones
 
