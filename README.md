@@ -1,6 +1,6 @@
 # miniproyecto
 Theoric and experimental analysis on a variation of a sorting algorithm, 
-determining complexity and input dependency
+determining complexity, experimental execution time and input dependency
 
 # Planteamiento
 Para ordenar los animales dentro de una escena, el script utiliza un
